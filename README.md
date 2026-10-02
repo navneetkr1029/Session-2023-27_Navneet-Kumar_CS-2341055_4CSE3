@@ -30,12 +30,6 @@ A **Streamlit** app that converts uploaded educational content (CSV/TXT) into in
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/BhavyaSharan/RAG-Educational-Content-Generator.git
-cd RAG-Educational-Content-Generator
-```
-
-
 Install dependencies:
 
 pip install -r requirements.txt
